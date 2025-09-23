@@ -1,0 +1,10 @@
+# files env. python
+venv/
+# files Pycharm
+.idea/
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+# files help
+files_help/
