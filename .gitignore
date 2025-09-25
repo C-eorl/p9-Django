@@ -8,3 +8,5 @@ __pycache__/
 *.pyc
 # files help
 files_help/
+#app_tutorial
+litrevu/listings/
